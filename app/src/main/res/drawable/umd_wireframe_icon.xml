@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Blue folder and cheat-sheet mark from the selected app identity direction. -->
+    <path android:fillColor="#102D45" android:strokeColor="#27B8FF" android:strokeWidth="2.8" android:strokeLineJoin="round"
+        android:pathData="M24,13 L47,13 L54,21 L78,21 C81,21 83,23 83,26 L83,70 L27,70 L27,18 C27,15 26,13 24,13 Z" />
+    <path android:fillColor="#0B1925" android:strokeColor="#A7E7FF" android:strokeWidth="2.5" android:strokeLineJoin="round"
+        android:pathData="M37,24 L69,24 L76,31 L76,67 L37,67 Z M69,24 L69,32 L76,32" />
+    <path android:fillColor="#00000000" android:strokeColor="#42C8FF" android:strokeWidth="2.4" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M45,42 L41,46 L45,50 M56,42 L60,46 L56,50 M52,40 L49,52 M44,59 L67,59" />
+    <path android:fillColor="#133A58" android:strokeColor="#27B8FF" android:strokeWidth="3" android:strokeLineJoin="round"
+        android:pathData="M14,39 L39,39 L46,47 L91,47 L91,82 C91,87 88,90 83,90 L20,90 C16,90 14,87 14,83 Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#6BD5FF" android:strokeWidth="1.7" android:strokeLineCap="round"
+        android:pathData="M17,49 L87,49 M22,84 L81,84" />
+</vector>
